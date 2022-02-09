@@ -4,7 +4,7 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-
+/* Top Part */
 .top-part{
 background-color: #264653; 
 height: 698px;
@@ -27,7 +27,50 @@ color: white;
 .color-white{
     color:white;
 }
+
+/* Featured Bikes */
 .grayscale{
     filter: grayscale(100);
 }
 
+
+/* happy clients */
+.color{
+    color: #E76F51;
+}
+.star{
+    display: flex;
+    justify-content: center;
+    color: #E76F51;
+}
+.color-blue{
+    color: blue;
+    text-align: center;
+}
+#orebaba-img{
+width: 354px;
+height: 354px;
+width: 100%;
+
+}
+.happy-card-img-top{
+    width: 354px;
+    height: 354px;
+    border-radius: 50%;
+}
+#faq-img{
+    width: 100%;
+}
+
+/* footer part */
+
+footer{
+
+    height: 150px;
+    background-color: #0B0D17;
+    margin-top: 30px;
+    color: white;
+}
+.foo{
+    height: 150px;
+}
